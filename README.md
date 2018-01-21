@@ -1,5 +1,5 @@
 # gms-ascii-to-level
-Level creation through text by associating ASCII characters with game objects; for GameMaker: Studio. This project corresponds to a blog post tutorial, [found here](https://zackbanack.com/blog/level-to-ascii).
+Level creation through text by associating ASCII characters with game objects; for GameMaker: Studio. This project corresponds to a blog post tutorial, [found here](https://zackbanack.com/blog/ascii-to-level).
 
 ## Installation
 
